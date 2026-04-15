@@ -1,4 +1,5 @@
-﻿ 
+﻿// Author: Shoamir Shorustamov
+ 
 using UnityEngine;
 
 public class Powerup : MonoBehaviour
@@ -78,3 +79,4 @@ public class Powerup : MonoBehaviour
     }
 
 }
+

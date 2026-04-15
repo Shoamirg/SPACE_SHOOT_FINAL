@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿// Author: Shoamir Shorustamov
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
@@ -102,3 +103,4 @@ public class UI_Manager : MonoBehaviour
         _camera.transform.position = new Vector3(0, 0, -10);
     }
 }
+

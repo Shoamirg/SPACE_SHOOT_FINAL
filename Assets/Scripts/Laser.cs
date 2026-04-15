@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿// Author: Shoamir Shorustamov
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -226,3 +227,4 @@ public class Laser : MonoBehaviour
         }
     }
 }
+

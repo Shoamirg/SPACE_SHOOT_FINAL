@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿// Author: Shoamir Shorustamov
+using System.Collections;
  
 using UnityEngine;
 
@@ -186,3 +187,4 @@ public class Spawn : MonoBehaviour
         _enemyDestroyed++;
     }
 }
+

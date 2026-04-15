@@ -1,4 +1,5 @@
-﻿ 
+﻿// Author: Shoamir Shorustamov
+ 
  
 using UnityEngine;
 
@@ -34,3 +35,4 @@ public class Asteroid : MonoBehaviour
         }
     }
 }
+
