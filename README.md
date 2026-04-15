@@ -43,6 +43,6 @@ Unity
 C#
 Author
 
-Developed by Abdulloh
+Developed by Shoamir Shorustamov 
 
 Aspiring Junior Game Developer
